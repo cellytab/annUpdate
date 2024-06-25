@@ -1,0 +1,20 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.sidebar-text {
+  color: #8d728c;
+}
+
+/* avatar name color */
+.css-gk9ju0,
+.css-1vh52m1 {
+  color: #8d728c;
+}
+
+.css-akg0sf > img,
+.css-1pr2mpg > img {
+  object-fit: cover;
+  aspect-ratio: 1;
+}
